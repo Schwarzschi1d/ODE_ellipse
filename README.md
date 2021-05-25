@@ -1,6 +1,7 @@
 # ODE_ellipse
 高専時代の卒研内容です。解説はpdfにあります。
-Runge-Kutta-Gill methodなどによる惑星シミュレーションをCで書いたやつです。 
+Runge-Kutta-Gill methodなどによる惑星シミュレーションをCで書いたやつです。   
+画像の出力に関しては究極的にセンスがないので、datファイルをだすところまでをmainにぶち込んでます。
 
 #define SOLVER ()の中身を変えると、Euler Methodとかに変更できます。  
 
